@@ -1,0 +1,1 @@
+A list of recipes, as an assignment from The Odin Project curriculum
